@@ -1,4 +1,4 @@
-# Assessing the Efficacy of Attention Rollout in Transformer Pretraining
+# Assessing the Efficacy of Attention Rollout for Post-Hoc Interpretability in Transformers
 
 This repository contains experiments for visualizing and analyzing attention mechanisms in Vision Transformers (ViT). Through attention visualization and rollout techniques, the project demonstrates how transformers "see" and process images, offering insights into their internal mechanisms.
 
